@@ -1,0 +1,72 @@
+body {
+  width: 1440px;
+
+  font-family: barlow;
+  font-size: 18px;
+}
+h2,
+h3 {
+  font-family: fraunces;
+}
+p {
+  color: hsl(232, 10%, 55%);
+}
+
+.header {
+  background-image: url("images/desktop/image-header.jpg");
+
+  height: 800px;
+  width: 1440px;
+}
+button {
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+}
+.container1 {
+  display: flex;
+}
+.container1box {
+  width: 520px;
+  height: 300px;
+  padding: 100px;
+}
+.a1 {
+  color: hsl(212, 27%, 19%);
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 6px solid hsl(51, 100%, 49%);
+}
+.container2 {
+  display: flex;
+}
+.container2box {
+  width: 520px;
+  height: 300px;
+  padding: 100px;
+}
+.a2 {
+  color: hsl(212, 27%, 19%);
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 6px solid hsl(7, 99%, 70%);
+}
+.container3 {
+  display: flex;
+}
+.container3box1 {
+  background-image: url("images/desktop/image-graphic-design.jpg");
+  height: 500px;
+  width: 720px;
+}
+.container3box2 {
+  background-image: url("images/desktop/image-photography.jpg");
+  height: 500px;
+  width: 720px;
+  text-align: center;
+}
+.img {
+}
+.allimg {
+  display: flex;
+}
